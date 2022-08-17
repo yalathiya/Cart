@@ -32,11 +32,11 @@ const styles = {
         fontColor:'skyblue'
         
     },
-    navbar:{
+    // navbar:{
         
-        background:'blue'
+    //     background:'blue'
         
-    }
+    // }
     
 }
 
